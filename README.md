@@ -1,6 +1,6 @@
 # Link-prediction-in-social-networks
 
-This repository deals with link/edge prediction in networks. A network is represented as an undirected graph. The aim is to infer which new interactions among its members
+This repository deals with link/edge prediction in social networks. A network is represented as an undirected graph. The aim is to infer which new interactions among its members
 are likely to occur in the near future. The following are some approaches to link prediction based on measures for analyzing the “proximity” of nodes in a network.
 
 1. Jaccard’s coefficient
